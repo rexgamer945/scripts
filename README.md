@@ -1,6 +1,6 @@
-SCRIPTD
+SCRIPTs
 ======
-**Script Name** this is the best hack tool box it still in the works and being code in my free time:
+**Script toolkit** this is the best hack tool box it still in the works and being code in my free time:
 
 ```
     This tool kit was created for review and not for causing harm.
