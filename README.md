@@ -1,6 +1,6 @@
-SCRIPTs
+
 ======
-**Script toolkit** this is the best hack tool box it still in the works and being code in my free time:
+**Script tool kit** it still in the works and being code in my free time:
 
 ```
     This tool kit was created for review and not for causing harm.
@@ -13,6 +13,6 @@ SCRIPTs
 
 ## Contact
 #### Developer/Company
-* instagram: [@instagram](https://www.instagram.com/rexgamer945/ "")
+* rexgamer945
 
 
