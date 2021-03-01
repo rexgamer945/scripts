@@ -1,19 +1,18 @@
 SCRIPTD
 ======
-**Script Name** is a script for things. The usage is explained like this:
+**Script Name** this is the best hack tool box it still in the works and being code in my free time:
 
 ```
-$ ./script parameter1 .. parameterN
- Output
-$ 
+    This tool kit was created for review and not for causing harm.
+    Usage of hunner for attacking targets without prior mutual consent is illegal.
+    Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
 ```
 ## Version 
-* Version X.Y
+* Version 0.2
 
 ## Contact
 #### Developer/Company
-* Homepage: 
-* e-mail: 
 * instagram: [@instagram](https://www.instagram.com/rexgamer945/ "")
-* other communication/social media
+
 
