@@ -14,7 +14,7 @@ O = '\033[33m'
  
 def info():
 	VERSION = B+'1.0'+E
-	AUTHOR =  B+'B3-v3r'+E
+	AUTHOR =  B+'rex'+E
 	print("""
 		#################################
 		#                               # 
@@ -23,7 +23,7 @@ def info():
 		#          Author->  %s     # 
 		#                               #
 		#################################
-		""" % (VERSION, AUTHOR))
+		""" % (2.0, rexgamer945))
 def heads():
 	global head
 	head = E+H+"""
