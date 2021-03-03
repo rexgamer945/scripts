@@ -4,7 +4,7 @@
 
 ```
     This tool kit was created for review and not for causing harm.
-    Usage of hunner for attacking targets without prior mutual consent is illegal.
+    Usage of tool kit for attacking targets without prior mutual consent is illegal.
     Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ```
