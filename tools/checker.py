@@ -234,7 +234,7 @@ def Main_Menu():
   	6) Brute mails
   	'''+W+'''-------------------\n'''+E)
 	try:
-		v = input('Hunner-»')
+		v = input('toolkit-»')
 	except:
 		print(' Good by ')
 		exit()
